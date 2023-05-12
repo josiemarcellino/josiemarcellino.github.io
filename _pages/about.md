@@ -6,4 +6,4 @@ collection: portfolio
 classes: wide
 
 ---
-Hi, I am Josie Marcellino!
+Hi, I am Josie Marcellino! I am a photographer.
