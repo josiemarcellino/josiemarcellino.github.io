@@ -294,7 +294,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      show_date: true
 
 collections:
   portfolio:
