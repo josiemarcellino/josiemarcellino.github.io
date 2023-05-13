@@ -16,17 +16,16 @@ minimal_mistakes_skin    : "dark" # "default" "air", "aqua", "contrast", "dark",
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Josie Marcellino Photography"
+title                    : "Josephine Marcellino Photography"
 title_separator          : "-"
-subtitle                 : Event Photography
-name                     : "Josie Marcellino"
+name                     : "Josephine Marcellino"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Josie Marcellino Photography
+masthead_title           : Josephine Marcellino Photography
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -78,9 +77,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "josiemarcellino"
+  username               :
 facebook:
-  username               : "jmmarcellino"
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -101,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Josie Marcellino"
+  name             : "Josephine Marcellino"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : Degree in film
   location         : Philadelphia, PA
@@ -131,7 +130,7 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/josiemarcellino"
+      # url:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:

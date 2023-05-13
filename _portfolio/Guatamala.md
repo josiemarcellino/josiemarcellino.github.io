@@ -20,5 +20,5 @@ Guatamala is one of my favorite places in the world.
 
 {% include gallery %}
 
-Text after gallery
+Text after gallery~~
 
